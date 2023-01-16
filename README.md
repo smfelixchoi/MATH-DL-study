@@ -1,8 +1,6 @@
 # MATH-DL-study
 
-Code Implementation for Deep Learning & Deep Reinforcement Learning
-    - PyTorch
-    - TensorFlow
+Code Implementation for Deep Learning & Deep Reinforcement Learning (```PyTorch``` and ```TensorFlow```)
 
 0. Tutorial for ```Python 3```
     - 발표자: 최선묵
