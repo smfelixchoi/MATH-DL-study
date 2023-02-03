@@ -21,7 +21,7 @@ Code Implementation for Deep Learning & Deep Reinforcement Learning (```PyTorch`
     - Regularization
     
 3. Convolutional Neural Networks
-    - Basic of CNN (발표자: 최찬혁)x
+    - Basic of CNN (발표자: 최찬혁)
     - ResNet & MobileNet (발표자: 최선묵)
     
 4. Recurrent Neural Networks
