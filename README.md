@@ -31,7 +31,7 @@ Code Implementation for Deep Learning (```PyTorch``` and ```TensorFlow```)
     - Presenter: Chanhyeok Choi
     
 6. Variational Auto Encoder
-    - 발표자: 최찬혁
+    - Presenter: Chanhyeok Choi
     
 7. GAN 
-    - 발표자: 최선묵
+    - Presenter: Sunmook Choi
